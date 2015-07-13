@@ -5,6 +5,14 @@ body {
 #header{
     background: #D5FF05;
 }
+#profile {
+	float: right;
+	width: 35%;
+	height: 35%;
+	margin: 20px;
+	margin-bottom: 0px;
+	border-radius: 50%;
+}
 nav ul, p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
