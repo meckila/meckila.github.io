@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-header{
+#header{
     background: #D5FF05;
 }
 nav ul, p {
