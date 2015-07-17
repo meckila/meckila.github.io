@@ -5,6 +5,9 @@ body {
 }
 header{
 	background-image: url(https://cloud.githubusercontent.com/assets/9985425/8753942/9decd8a6-2c74-11e5-9989-f3ffea1e008c.jpg);
+	background-size: 110%;
+  	height: 705px;
+	
 }
 
 #container {
