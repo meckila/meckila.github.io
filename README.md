@@ -1,7 +1,8 @@
 # meckila.github.io
-Pages Demo for Girls Who Code Google SF
+<h3>Pages Demo for Girls Who Code Google SF</h3>
 
-TIPS:
+<h4>TIPS:</h4>
+
 <h5>1. Naming Your Repository</h5>
 Make sure the name of your repository of your website matches your username. For example, my username is meckila and the name of the repository is meckila.github.io
 
