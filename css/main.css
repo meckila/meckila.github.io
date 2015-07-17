@@ -10,6 +10,9 @@ h1 {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
+h2 {
+	display: inline;
+}
 
 #profile {
 	width: 70%;
