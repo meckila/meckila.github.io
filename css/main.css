@@ -12,6 +12,10 @@ h1 {
 }
 h2 {
 	display: inline;
+	font-size: 30px;
+}
+h3 {
+	font-size: 25px;
 }
 
 #profile {
@@ -32,6 +36,7 @@ nav ul li {
 a {
     text-decoration: none;
     font-size: 25px;
+    color: ;
 }
 a:hover {
     text-decoration: underline;
