@@ -8,6 +8,7 @@ h1 {
 	font-family: 'Italiana', serif;
 	font-size: 50px;
 	text-transform: uppercase;
+	letter-spacing: 5px;
 }
 
 #profile {
