@@ -2,7 +2,7 @@ body {
     margin: 0 auto;
     padding: 50px;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 25px;
+    font-size: 20px;
 }
 h1 {
 	font-family: 'Italiana', serif;
@@ -14,7 +14,7 @@ h1 {
 #profile {
 	width: 70%;
 	height: 70%;
-	margin: 20px;
+	margin: 0 auto;
 	margin-bottom: 0px;
 	border-radius: 50%;
 }
