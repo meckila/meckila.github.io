@@ -3,12 +3,13 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
 }
-#headerImage{
+header{
 	background-image: url(https://cloud.githubusercontent.com/assets/9985425/8753942/9decd8a6-2c74-11e5-9989-f3ffea1e008c.jpg);
 }
 
 #container {
 	padding: 50px;
+	padding-top: 0px;
 }
 h1 {
 	font-family: 'Italiana', serif;
