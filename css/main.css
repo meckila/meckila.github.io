@@ -13,6 +13,7 @@ h1 {
 h2 {
 	display: inline;
 	font-size: 45px;
+	margin: 0px;
 }
 h3 {
 	font-size: 40px;
@@ -25,6 +26,9 @@ h3 {
 	margin: 0 auto;
 	margin-bottom: 0px;
 	border-radius: 50%;
+}
+nav {
+	text-align: center;
 }
 nav ul, p {
     padding: 0px;
