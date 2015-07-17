@@ -4,7 +4,7 @@ body {
     font-size: 20px;
 }
 header{
-	background-image: url(https://cloud.githubusercontent.com/assets/9985425/8753942/9decd8a6-2c74-11e5-9989-f3ffea1e008c.jpg);
+	background-image: url(https://cloud.githubusercontent.com/assets/9985425/8754317/8961bcdc-2c77-11e5-93c5-60e5800428ea.jpg);
 	background-size: 110%;
   	height: 705px;
 	
@@ -16,9 +16,12 @@ header{
 }
 h1 {
 	font-family: 'Italiana', serif;
-	font-size: 50px;
+	font-size: 70px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	text-align: center;
+	padding-top: 30%;
+	color: white;
 }
 h2 {
 	display: inline;
