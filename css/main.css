@@ -13,7 +13,7 @@ header{
 #container {
 	padding: 50px;
 	padding-top: 0px;
-	background-color: #B0928D;
+	background-color: #DEC6BF;
 }
 h1 {
 	font-family: 'Italiana', serif;
@@ -29,12 +29,14 @@ h2 {
 	display: inline;
 	font-size: 45px;
 	margin: 0px;
+	text-transform: uppercase;
 }
 h3 {
 	font-size: 40px;
 	text-align: center;
+	color: #78454C;
+  
 }
-
 #profile {
 	width: 70%;
 	height: 70%;
@@ -44,6 +46,10 @@ h3 {
 }
 nav {
 	text-align: center;
+}
+ul {
+	margin: 0px;
+  	padding-top: 20px;
 }
 nav ul, p {
     padding: 0px;
@@ -56,10 +62,13 @@ nav ul li {
 a {
     text-decoration: none;
     font-size: 25px;
-    color: ;
+    color: #450D0B;
 }
 a:hover {
     text-decoration: underline;
+}
+p {
+	width: 50%;
 }
 
 
