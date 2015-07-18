@@ -7,7 +7,7 @@
 Make sure the name of your repository of your website matches your username. For example, my username is meckila and the name of the repository is meckila.github.io
 
 <h5>2. How do I add Images???</h5>
-Adding images for github is slightly different than adding images into a folder on a server. You'll want to click "Issues" in the sidebar menu of your repository homepage (where all your project files are).
+Adding images for GitHub is slightly different than adding images into a folder on a server. You'll want to click "Issues" in the sidebar menu of your repository homepage (where all your project files are).
 
 <img src="https://cloud.githubusercontent.com/assets/9985425/8758009/32c95a98-2c94-11e5-8673-5bc7c10f49ea.png">
 <br>
