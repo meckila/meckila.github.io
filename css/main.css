@@ -11,7 +11,7 @@ header{
 }
 
 .bounce {
-	margin: 40%;
+	margin-left: 40%;
 	 position: absolute;
 	 bottom: 10px;
 	 animation: bounce 2s infinite;
